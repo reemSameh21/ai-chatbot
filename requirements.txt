@@ -1,0 +1,11 @@
+pandas
+spacy
+torch
+transformers
+azure.ai.language.conversations
+azure-identity
+azure.ai.textanalytics
+mlflow
+datasets
+transformers[torch]
+openai
