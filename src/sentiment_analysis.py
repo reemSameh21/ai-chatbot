@@ -1,8 +1,8 @@
 from azure.ai.textanalytics import TextAnalyticsClient
 from azure.core.credentials import AzureKeyCredential
 
-endpoint = "https://ai1chatbot.cognitiveservices.azure.com/"
-credential = AzureKeyCredential("ebe4649649b24b8bb6d9a9088b80bb96")
+endpoint = " "
+credential = AzureKeyCredential(" ")
 
 client = TextAnalyticsClient(endpoint, credential)
 
